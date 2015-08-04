@@ -8,3 +8,7 @@ Smaller favicon for Medium.
 See `source/*.png` for source images that were combined into the new favicon.ico.
 
 I could only guess, but it seems that the reason of reduced file size is 8-bit PNGs instead of 24 or 32-bit ones.
+
+![128×128](source/128.png)
+![64×64](source/64.png)
+![32×32](source/32.png)
